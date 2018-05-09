@@ -20,7 +20,7 @@ public class BoardDAO {
 	
 	public BoardDAO() {
 		// TODO Auto-generated constructor stub
-		
+		//ddd
 		try {
 			Context init = new InitialContext();
 			DataSource ds = (DataSource)init.lookup("java:comp/env/oooo");
